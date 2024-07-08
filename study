@@ -57,7 +57,7 @@
             "name": "Cup and Handles",
             "img": "https://i.ibb.co/wYPnNSn/Cup-and-Handles.png",
             "price": 1500,
-            "description": "The cup and handle is a bullish continuation pattern where an upward trend has paused but will continue when the pattern is confirmed. The "cup" portion of the pattern should be a "U" shape that resembles the rounding of a bowl rather than a "V" shape with equal highs on both sides of the cup.The "handle" forms on the right side of the cup in the form of a short pullback that resembles a flag or pennant chart pattern. Once the handle is complete, the stock may breakout to new highs and resume its trend higher."
+            "description": "The cup and handle is a bullish continuation pattern where an upward trend has paused but will continue when the pattern is confirmed. The "cup" portion of the pattern should be a "U" shape that resembles the rounding of a bowl rather than a "V" shape with equal highs on both sides of the cup. The "handle" forms on the right side of the cup in the form of a short pullback that resembles a flag or pennant chart pattern. Once the handle is complete, the stock may breakout to new highs and resume its trend higher."
           },
           {
             "id": 97,
@@ -67,37 +67,10 @@
             "description": "Head and shoulders is a reversal pattern that can appear at market tops or bottoms as a series of three pushes: an initial peak or trough, followed by a second and larger one, and then a third push that mimics the first. An uptrend interrupted by a head and shoulders top pattern may experience a trend reversal, resulting in a downtrend. Conversely, a downtrend that results in a head and shoulders bottom (or an inverse head and shoulders) will likely experience a trend reversal to the upside. Horizontal or slightly sloped trendlines can be drawn connecting the peaks and troughs between the head and shoulders, as shown in the figure below. Volume may decline as the pattern develops and spring back once the price breaks above (in the case of a head and shoulders bottom) or below (in the case of a head and shoulders top) the trendline."
           }
         ]
-      },
-      {
-        "id": 2,
-        "name": "Food",
-        "img": "https://i.ibb.co/s2SJ8LC/basket-t-shirt.jpg",
-        "price": 35,
-        "created_at": null,
-        "goods": [
-          {
-            "id": 101,
-            "name": "Crackers for beer",
-            "img": "https://i.ibb.co/hVWnYdT/4ran-crackers-for-beer.jpg",
-            "price": 250,
-            "description": "250g"
-          },
-          {
-            "id": 102,
-            "name": "Cheese balls for beer",
-            "img": "https://i.ibb.co/R0zQY6w/cheese-balls.jpg",
-            "price": 350,
-            "description": "250g"
-          },
-          {
-            "id": 103,
-            "name": "Beef burger",
-            "img": "https://i.ibb.co/Np0pVxx/4ran-beef-burger.jpg",
-            "price": 700,
-            "description": "250g"
-          }
-        ]
       }
     ]
   }
 }
+
+
+
